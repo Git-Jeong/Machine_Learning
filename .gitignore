@@ -1,0 +1,17 @@
+# data file + img  <- due to Copyright
+*.csv
+*.jpg
+*.jpeg
+*.png  
+*.svg
+
+# macOS  
+.DS_Store
+
+# Jupyter Notebook  
+.ipynb_checkpoints/ 
+
+# Windows  
+Thumbs.db
+ehthumbs.db 
+ 
