@@ -17,6 +17,6 @@
 
 ## 설치 방법
 
-1. 이 레파지토리를 클론합니다:
+1. 
    ```bash
      https://github.com/Git-Jeong/Machine_Learning.git
