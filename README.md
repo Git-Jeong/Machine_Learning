@@ -19,4 +19,4 @@
 
 1. 이 레파지토리를 클론합니다:
    ```bash
-   git clone https://github.com/Git-Jeong/Machine_Learning.git
+     https://github.com/Git-Jeong/Machine_Learning.git
