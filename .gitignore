@@ -5,7 +5,7 @@
 *.png  
 *.svg
 /study/GPU
-/anaconda_projects
+/study/anaconda_projects
 
 # macOS  
 .DS_Store
