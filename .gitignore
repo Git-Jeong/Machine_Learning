@@ -6,6 +6,8 @@
 *.svg
 /study/GPU
 /study/anaconda_projects
+*.dot
+*.pkl
 
 # macOS  
 .DS_Store
@@ -15,7 +17,4 @@
 
 # Windows  
 Thumbs.db
-ehthumbs.db 
-  
-*.dot
-*.pkl
+ehthumbs.db  
